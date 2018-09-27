@@ -441,6 +441,7 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  color: #fff;
   background-color: #cc6000;
   border-color: #cc6000;
 }
